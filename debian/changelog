@@ -1,3 +1,9 @@
+argus-pep-api-java (2.2.0-1) unstable; urgency=low
+
+  * Upstream version 2.2.0 for EMI-3.
+
+ -- Valery Tschopp <valery.tschopp@switch.ch>  Thu, 15 Nov 2012 17:58:38 +0100
+
 argus-pep-api-java (2.1.1-1) unstable; urgency=low
 
   * Initial release for Debian (Closes: #23482) 
